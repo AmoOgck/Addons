@@ -88,5 +88,5 @@
 
 /*keep it round because border-radius 8 only works when the width is 16 lol*/
 .listItem_c96c45 .baseShapeRound_df8943 {
-  border-radius: 100%;
+  border-radius: 80%;
 }
